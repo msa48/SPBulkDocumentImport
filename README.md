@@ -1,3 +1,13 @@
+### IMPORTANT NOTICE:
+Project restored from CodePlex Archive http://spbulkdocumentimport.codeplex.com "as is"  
+I'm (msa48) not author and not work at OrbitOne company.
+
+I was looking for useful tools to interact with old version of a SharePoint and unfortunately all the links point to a no longer existing codeplex resource. Thanks to the https://web.archive.org that at least he remembers 
+
+Some other tools can be found there https://github.com/chrisdee/Tools/tree/master/SharePoint
+
+---
+
 # Project Description
 
 Need to import/migrate files and folders from servers and network shares into SharePoint 2010 document libraries?  
